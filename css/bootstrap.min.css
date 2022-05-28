@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v5.0.0 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -5398,6 +5393,7 @@ fieldset:disabled .btn {
   padding: 1rem 1rem;
   color: #757575;
 }
+
 .carousel {
   position: relative;
 }
@@ -6781,7 +6777,7 @@ fieldset:disabled .btn {
   word-break: break-word !important;
 }
 .text-primary {
-  color: blue !important;
+  color: white !important;
 }
 .text-secondary {
   color: #757575 !important;
